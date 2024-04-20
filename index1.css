@@ -1,0 +1,59 @@
+body {
+    background:linear-gradient(to left,rgb(255,183,235)rgb(255,244,176)) 
+}
+.content2{
+    display:flex;
+    position: relative;
+    padding-top: 50px;
+    background: linear-gradient(to left, rgb(255,183,235), rgb(255,244,176));
+}
+.image2{
+    width:25%;
+    height: 430px;
+    clip-path: inset(20% 0 0 0);
+    position: relative;
+    left: 60px;
+    top: -85px;
+    background-image: url("pexels-rachel-claire-6752433.jpg");
+    background-size: cover;
+   }
+   .image3{
+    width:25%;
+    height:400px;
+    position: relative;
+    top:220px;
+    right:315px;
+    clip-path: inset(35% 0 0 0);
+
+    background-image: url("pexels-eva-bronzini-6141651.jpg");
+    background-size: cover;
+   }
+   .image4{
+    width:25%;
+    height:620px;
+    right: 20%;
+    position: relative;
+    background-image: url("pexels-mister-mister-3434523.jpg");
+    background-size: cover;
+   }
+   .image5{
+       width: 400px;
+       height:260px;
+       right: 18%;
+       bottom: -200px;
+       position: relative;
+       background-color:#ff7171;
+   }
+   .img_menu {
+    width: 20px;
+    margin-left: 100px;
+
+}
+   /* .text p{
+    font-size: 20px;
+    text-align: start;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    line-height: 1.5;
+   } */
